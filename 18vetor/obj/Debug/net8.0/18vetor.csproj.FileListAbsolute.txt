@@ -1,0 +1,14 @@
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\bin\Debug\net8.0\18vetor.exe
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\bin\Debug\net8.0\18vetor.deps.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\bin\Debug\net8.0\18vetor.runtimeconfig.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\bin\Debug\net8.0\18vetor.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\bin\Debug\net8.0\18vetor.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\obj\Debug\net8.0\18vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\obj\Debug\net8.0\18vetor.AssemblyInfoInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\obj\Debug\net8.0\18vetor.AssemblyInfo.cs
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\obj\Debug\net8.0\18vetor.csproj.CoreCompileInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\obj\Debug\net8.0\18vetor.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\obj\Debug\net8.0\refint\18vetor.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\obj\Debug\net8.0\18vetor.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\obj\Debug\net8.0\18vetor.genruntimeconfig.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\18vetor\obj\Debug\net8.0\ref\18vetor.dll

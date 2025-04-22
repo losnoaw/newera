@@ -1,0 +1,14 @@
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\bin\Debug\net8.0\10condicional_simples.exe
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\bin\Debug\net8.0\10condicional_simples.deps.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\bin\Debug\net8.0\10condicional_simples.runtimeconfig.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\bin\Debug\net8.0\10condicional_simples.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\bin\Debug\net8.0\10condicional_simples.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\obj\Debug\net8.0\10condicional_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\obj\Debug\net8.0\10condicional_simples.AssemblyInfoInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\obj\Debug\net8.0\10condicional_simples.AssemblyInfo.cs
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\obj\Debug\net8.0\10condicional_simples.csproj.CoreCompileInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\obj\Debug\net8.0\10condicional_simples.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\obj\Debug\net8.0\refint\10condicional_simples.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\obj\Debug\net8.0\10condicional_simples.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\obj\Debug\net8.0\10condicional_simples.genruntimeconfig.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\10condicional_simples\obj\Debug\net8.0\ref\10condicional_simples.dll

@@ -1,0 +1,14 @@
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\bin\Debug\net8.0\06convercao.exe
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\bin\Debug\net8.0\06convercao.deps.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\bin\Debug\net8.0\06convercao.runtimeconfig.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\bin\Debug\net8.0\06convercao.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\bin\Debug\net8.0\06convercao.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\obj\Debug\net8.0\06convercao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\obj\Debug\net8.0\06convercao.AssemblyInfoInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\obj\Debug\net8.0\06convercao.AssemblyInfo.cs
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\obj\Debug\net8.0\06convercao.csproj.CoreCompileInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\obj\Debug\net8.0\06convercao.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\obj\Debug\net8.0\refint\06convercao.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\obj\Debug\net8.0\06convercao.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\obj\Debug\net8.0\06convercao.genruntimeconfig.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\06convercao\obj\Debug\net8.0\ref\06convercao.dll

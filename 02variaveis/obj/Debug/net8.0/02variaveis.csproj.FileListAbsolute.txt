@@ -1,0 +1,14 @@
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\bin\Debug\net8.0\02variaveis.exe
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\bin\Debug\net8.0\02variaveis.deps.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\bin\Debug\net8.0\02variaveis.runtimeconfig.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\bin\Debug\net8.0\02variaveis.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\bin\Debug\net8.0\02variaveis.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\obj\Debug\net8.0\02variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\obj\Debug\net8.0\02variaveis.AssemblyInfoInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\obj\Debug\net8.0\02variaveis.AssemblyInfo.cs
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\obj\Debug\net8.0\02variaveis.csproj.CoreCompileInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\obj\Debug\net8.0\02variaveis.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\obj\Debug\net8.0\refint\02variaveis.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\obj\Debug\net8.0\02variaveis.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\obj\Debug\net8.0\02variaveis.genruntimeconfig.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\02variaveis\obj\Debug\net8.0\ref\02variaveis.dll

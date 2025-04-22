@@ -1,0 +1,14 @@
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\bin\Debug\net8.0\16laco_faca_enquanto.exe
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\bin\Debug\net8.0\16laco_faca_enquanto.deps.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\bin\Debug\net8.0\16laco_faca_enquanto.runtimeconfig.json
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\bin\Debug\net8.0\16laco_faca_enquanto.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\bin\Debug\net8.0\16laco_faca_enquanto.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\obj\Debug\net8.0\16laco_faca_enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\obj\Debug\net8.0\16laco_faca_enquanto.AssemblyInfoInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\obj\Debug\net8.0\16laco_faca_enquanto.AssemblyInfo.cs
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\obj\Debug\net8.0\16laco_faca_enquanto.csproj.CoreCompileInputs.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\obj\Debug\net8.0\16laco_faca_enquanto.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\obj\Debug\net8.0\refint\16laco_faca_enquanto.dll
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\obj\Debug\net8.0\16laco_faca_enquanto.pdb
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\obj\Debug\net8.0\16laco_faca_enquanto.genruntimeconfig.cache
+C:\Users\alefs\OneDrive\Área de Trabalho\Estudos\C Sharp\C Sharp\16laco_faca_enquanto\obj\Debug\net8.0\ref\16laco_faca_enquanto.dll
