@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\20matriz.csproj": {}
+    "c:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\20matriz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\20matriz.csproj": {
+    "c:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\20matriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\20matriz.csproj",
+        "projectUniqueName": "c:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\20matriz.csproj",
         "projectName": "20matriz",
-        "projectPath": "C:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\20matriz.csproj",
+        "projectPath": "c:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\20matriz.csproj",
         "packagesPath": "C:\\Users\\alefs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\obj\\",
+        "outputPath": "c:\\Users\\alefs\\OneDrive\\Área de Trabalho\\Estudos\\C Sharp\\C Sharp\\20matriz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alefs\\AppData\\Roaming\\NuGet\\NuGet.Config"
